@@ -30,7 +30,7 @@ public class Boton : MonoBehaviour
         else
         {
 
-            GetComponent<Image>().color = Color.white;
+            GetComponent<Image>().color = Color.white; 
         }
 
     }
